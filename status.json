@@ -1,10 +1,10 @@
 {
     "cycle": "2022123100", 
     "producer": "BandSOS FFWC", 
-    "status": "ongoing", 
+    "status": "done", 
     "lastforecast": {
         "date": "2022-12-30", 
         "cycle": "18"
     }, 
-    "lastupdate": "2022-12-31 05:03:24"
+    "lastupdate": "2022-12-31 06:03:20"
 }
