@@ -1,9 +1,9 @@
 {
     "cycle": "2023071218", 
     "producer": "BandSOS FFWC", 
-    "status": "ongoing", 
+    "status": "maintainance/manual override", 
     "lastforecast": {
-        "date": "2023-07-12", 
+        "date": "2023-07-11", 
         "cycle": "12"
     }, 
     "lastupdate": "2023-07-12 22:12:20"
